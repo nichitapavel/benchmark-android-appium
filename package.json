@@ -16,6 +16,6 @@
   "author": "Pavel Nichita <pnichita@ull.edu.es> (https://es.linkedin.com/in/pavelnichita)",
   "homepage": "https://github.com/nichitapavel/benchmark-android-appium#readme",
   "dependencies": {
-    "appium": "^1.12.1"
+    "appium": "^1.22.3"
   }
 }
